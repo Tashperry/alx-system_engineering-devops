@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd
+C-x C-c
+C-x C-s
